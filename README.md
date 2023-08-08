@@ -1,6 +1,6 @@
 # Push the docker image to the ACR and run the test case to check the image is pushed or not.
 
-### When you create a ACR then you need to identify that image is pushed or not. You can test this by using terratest. 
+### When you create a ACR and push the image to ACR then you need to validate that image is pushed or not. You can test this by using terratest. 
 
 ### Follow the below steps to run the terratest code:
 
